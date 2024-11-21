@@ -136,6 +136,7 @@ header nav {
 }
 
 .button {
+    position: absolute;
     left: 55%;
     top: 5%;
     padding: 13px 15px;
